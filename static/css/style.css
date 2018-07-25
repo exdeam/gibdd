@@ -1,0 +1,182 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #212121;
+}
+h1 {
+    font-size: 26px;
+    text-align: center;
+}
+h2 {
+    font-size: 22px;
+    text-align: center;
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+h4 {
+    font-size: 18px;
+}
+.bold {
+    font-weight: bold;
+}
+.big {
+    font-size: large;
+}
+.main {
+	min-height: 100%;
+	overflow: hidden;
+}
+.content {
+    margin-top: 80px;
+}
+.grey {
+    background-color: #efefef;
+}
+.img-slide {
+    margin: 0;
+}
+.navbar-brand > img{
+    width: 100%;
+}
+a.navbar-brand {
+    width: 300px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.topmenu {
+	position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 100%;
+}
+}
+.container .menu {
+    top: 20px;
+    }
+.nav > li {
+	text-transform: uppercase;
+    line-height: normal;
+    font-size: 14px;
+    font-weight: 400;
+   }
+
+.nav > li > a {
+	color: #212121;
+	text-decoration: none;
+	padding-bottom: 0;
+}
+.navbar-default {
+    min-height: 80px;
+}
+.navbar-default .navbar-collapse{
+    margin-top: 20px;
+}
+.navbar-header {
+    margin-top: -6px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #08324a;;
+}   
+.nav > li > a:active, .nav > li > a:focus, .nav > li > a:hover {
+	border-bottom: 1px dashed ;
+	padding-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #2aabd2;
+}
+
+.uslugi {
+    padding: 30px;
+}
+.us1 {
+    background-image: url("../img/uslugi1.jpg");
+    padding: 20px;
+    min-height: 340px;
+}
+.us1 > h4{
+    text-align: center;
+}
+.us2 {
+    background-image: url("../img/uslugi2.jpg");
+    padding: 20px;
+    min-height: 340px;
+} 
+.us2 > h4{
+    text-align: center;
+}  
+.us3 {
+    background-image: url("../img/uslugi3.jpg");
+    padding: 20px;
+    min-height: 340px;
+}   
+.us3 > h4{
+    text-align: center;
+}
+.us4 {
+    background-image: url("../img/uslugi4.jpg");
+    padding: 20px;
+    min-height: 340px;
+}   
+.us4 > h4{
+    text-align: center;
+}
+.us5 {
+    background-image: url("../img/uslugi5.jpg");
+    padding: 20px;
+    min-height: 340px;
+}   
+.us5 > h4{
+    text-align: center;
+}
+.us6 {
+    background-image: url("../img/uslugi6.jpg");
+    padding: 20px;
+    min-height: 340px;
+}   
+.us6 > h4{
+    text-align: center;
+}
+.ourworks{
+    border-top: 3px solid #72d2fa;
+}
+.works {
+    border: 1px solid #f3f4f5;
+}
+.about {
+    border-top: 3px solid #72d2fa;
+}
+.otzivi {
+    border-top: 3px solid #72d2fa;
+}
+.contact {
+    border-top: 3px solid #72d2fa;
+}
+.footer {
+    border-top: 3px solid #72d2fa;
+}
+.blag > a > img {
+    max-height: 360px;
+}
+
+@media only screen and (max-width: 991px) {
+  .us1{ max-width: 580px; }
+  .us2{ max-width: 580px; }
+  .us3{ max-width: 580px; }
+  .us4{ max-width: 580px; }
+  .us5{ max-width: 580px; }
+  .us6{ max-width: 580px; }
+  
+
