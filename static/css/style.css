@@ -36,6 +36,12 @@ h4 {
 .grey {
     background-color: #efefef;
 }
+.red {
+    color: red;
+}
+.oldtext {
+    text-decoration: line-through;
+}
 .img-slide {
     margin: 0;
 }
@@ -100,6 +106,9 @@ img {
 
 .uslugi {
     padding: 30px;
+}
+.uslugi > img {
+    max-height: 100px;
 }
 .us1 {
     background-image: url("../img/uslugi1.jpg");
